@@ -1,0 +1,10 @@
+4
+Property
+Service -600
+Lucky -500
+Property
+4
+Alice Carful
+Bob Tactical
+Charlie Greedy
+Joe Tactical

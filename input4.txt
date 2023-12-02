@@ -1,0 +1,10 @@
+4
+Green
+Green 600
+Lucky 600
+Property
+4
+Alice Careful
+Bob Tactical
+Charlie Greedy
+Joe Tactical
